@@ -1,1 +1,1 @@
-Source code simsimi chat bot sederhana api ada di <a href="https://simsimi.net/">sini<a/>
+Source code simsimi chat bot sederhana menggunakan api <a href="https://simsimi.net/">simsimi<a/> dan pemrograman python.
